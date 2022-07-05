@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# HP Easy Setup 123
 
-You can use the [editor on GitHub](https://github.com/hpeasysetup123/hpeasysetup123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![HP Easy Setup 123](get-start.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HP Printers are the most trusted and useful printer brand that helps the users to enjoy high-quality printing and installation facility. It is capable of connecting with different devices like computer/laptop, mac, smartphone, etc. Download HP Driver Using **[HP Easy Setup 123](https://hpeasysetup123.github.io/)** & Learn wireless hp com printer setup.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##  Download and Install hp deskjet setup using 123.hp.com/setup
 
-- Bulleted
-- List
+**_Follow the given steps to download and install hp deskjet printer on your device using hp printer official website:_**
 
-1. Numbered
-2. List
+1. If you want to get the latest version of the hp printer software, go to **[HP Easy Setup 123](https://hpeasysetup123.github.io/)** and check the download page for the same.
+2. Write the model number of your printer in the given space and to get the list of available software for your operating system.
+3. After that, you will get the option to run the wizard and then follow on-screen instructions.
+4. Now you will be asked to choose the connection mode for connecting your hp printer software and your windows system.
+5. Here you get basic HP printer software, in case you want to add on software from 123.hp.com, get it from the printer model page.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+##  How to Install 123.hp.com/setup on your device ?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**_Follow the steps given below to install the hp printer setup today:_**
 
-### Jekyll Themes
+###  Installation of the Printer Driver for Windows:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hpeasysetup123/hpeasysetup123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Download and launch the HP printer software on your windows device.
+* Power on your HP printer. If you have plugged the USB cord, disconnect it.
+* Visit **[HP Easy Setup 123](https://hpeasysetup123.github.io/)** and select the name of your HP printer.
+* Change the operating system version if needed and choose **HP Driver Download** that is available on the Drivers tab.
+* Click the type of installation as recommended or typical when prompted by windows installer.
+* The required full feature driver for your HP printer is searched and installed by the HP printer assistant software automatically.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###  Installation of the Printer Driver for Mac OS:
+
+* Install the driver in the Mac OS X using the Apple Software update
+* Under ‘System Preferences’ choose ‘Printers & Scanners’
+* From the printer list, click on the **‘minus’** sign to delete the printer first and then **‘plus’** sign to add it back
+* Click **‘Add’** to complete the addition of the printer
+* You will be prompted to install the software for which you can click on **‘Download and Install’**.
